@@ -19,16 +19,19 @@ export default function Home() {
             title="Generate"
             description="Use AI to generate diverse and challenging trivia questions for practice and fun!"
             image=""
+            href="generate"
           />
           <CardOption
             title="Explore"
             description="Discover question sets by fellow trivia enthusiasts and explore a wide range of topics!"
             image=""
+            href=""
           />
           <CardOption
             title="Publish"
             description="Create and share your own question sets on QuizGPT, inspiring others with your trivia creations!"
             image=""
+            href=""
           />
         </div>
       </div>
